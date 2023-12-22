@@ -1,9 +1,6 @@
 screenShotHeight = 640
 screenShotWidth = 640
 useMask = False
-maskSide = 'Left'
-maskWidth = 80
-maskHeight = 200
 autoGameDetection = False
 gameName = 'Fortnite'
 aaMovementAmp = 0.4
@@ -15,4 +12,3 @@ aaQuitKey = 'Q'
 cpsDisplay = True
 visuals = False
 centerOfScreen = True
-onnxChoice = 2
